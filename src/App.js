@@ -1,7 +1,7 @@
 /*
   Created by:
-  Sebastian Silva 30131305
-  Olubadejo Erioluwa Temiloluwa 30187041
+ Ayomide David Sayo-adeyemi
+ 30188179
 */
 
 import logo from './logo.svg';
